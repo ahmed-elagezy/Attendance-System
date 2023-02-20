@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="../css/bootstrap.bundle.min.js">
+    <link rel="stylesheet" href="../css/register.css">
+    <script src="../js/register.js" type="module" defer></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Register</title>
+</head>
+
+<body>
+    <div class="body-img">
+        <form method="get" class="border rounded-3 w-50 m-auto mt-5 p-5">
+            <div class="form-group">
+                <label for="Email">Email Address</label>
+
+                <div class="input-group">
+                    <input type="email" class="form-control" id="Email" placeholder="eg.Elagezy@gmail.com">
+                </div>
+                <!-- <small id="emailHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Valid Email</small>  -->
+                <!-- <small id="emailHelp" class="form-text text-muted valid bg-danger text-light">Email Is Already Used</small>  -->
+
+            </div>
+
+            <div class="row">
+
+                <div class="col-12 col-md-6 mb-2">
+                    <label for="firstname"> First Name</label>
+                    <input id="firstname" type="text" class="form-control">
+                </div>
+                <!-- <small id="fnameHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Valid name</small>  -->
+
+                <div class="col-12 col-md-6">
+                    <label for="lastname">Last name</label>
+                    <input id="lastname" type="text" class="form-control">
+                </div>
+                <!-- <small id="lnameHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Valid name</small>  -->
+
+            </div>
+
+            <div class="form-group">
+                <label for="address">Address</label>
+                <input id="address" type="text" class="form-control" id="address" placeholder="Address">
+            </div>
+            <!-- <small id="addressHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Valid Address</small>  -->
+
+            <div class="form-group row align-items-center">
+                <div class="col-5">
+                    <label for="Age">Age</label>
+                    <input id="age" type="number" class="form-control" id="Age" placeholder="Age" min="18" max="40"
+                        step="1" required>
+                </div>
+                <!-- <small id="AgeHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Valid Age</small>  -->
+
+                <div class="col-5">
+                    <input class="form-check-input" type="radio" id="security" value="security" name="job" required>
+                    <label class="form-check-label" for="security"> Security </label>
+                    <input class=" ms-5 form-check-input" type="radio" id="instructor" value="instructor" name="job">
+                    <label class="form-check-label" for="instructor"> Instructor</label>
+                </div>
+                <!-- <small id="roleHelp" class="form-text text-muted valid bg-danger text-light">Please Enter Role</small>  -->
+            </div>
+
+            <div class="form-group row justify-content-between mt-2">
+                <button type="submit" class="btn btn_submit ms-2 col-12 col-md-4 h-auto">SignUP</button>
+
+                <div class="col-12 col-md-6">
+                    <span class="text-primary">Already have an account?</span>
+                    <button class="btn btn_log text-light ">Login </button>
+                </div>
+                
+            </div>
+            <span class="bg-warning rounded-1 mt-2"></span>
+        </form>
+    </div>
+
+</body>
+
+</html>
