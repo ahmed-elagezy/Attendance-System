@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#invalid {
+    color: red;
+    display: none;
+    margin-bottom: 5px;
+}
+
+.body-img {
+    background-image: url("../images/attend.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.startSystem{
+    margin: 2rem auto;
+    position: absolute;
+    z-index: 2;
+    letter-spacing: 2px;
+    color: aliceblue;
+    font-size: larger;
+    background-color: #dba607;
+    border: 1px solid rgb(165, 161, 161);
+}
+.title{
+    font-size: 1.7rem;
+    height: 1.5rem;
+    font-weight: 500;
+    margin-left: 2%;
+    color: #bec5cc;
+}
+.header{
+    background-color: #4a4f54;
+}
+.title-logo{
+    height: auto;
+    width: 2.5rem;
+}
+.title-btn{
+    width: 10%;
+}
+.login {
+    background-color: rgba(255, 255, 255, 0.98);
+    height: Vmax;
+    width: 70%;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 13px rgb(192, 196, 198);
+}
+
+label {
+    display: inline-block;
+    /* width: 20%; */
+    font-size: 1.2rem;
+    /* height: 90%; */
+}
+
+input[type=submit] {
+    margin-left: 12%;
+    background-color: #626465;
+}
+
+input[type=text] {
+    height: 2rem;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border: 2px solid #284193;
+}

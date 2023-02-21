@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.overlay {
+    background-image: linear-gradient(rgb(85, 79, 79, .4), rgba(12, 3, 39, 0.2)), url(../images/iti.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.overlay input {
+    background-color: transparent;
+    width: 15%;
+    height: 3rem;
+    border: 2px solid white;
+    word-spacing: 5px;
+    font-size: large;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+
+.overlay input:hover {
+    background-color: tomato;
+    transition: all 1.5s;
+}
