@@ -1,0 +1,17 @@
+.absent{
+    color: white;
+}
+.title{
+    font-size: 1.7rem;
+    height: 1.5rem;
+    font-weight: 500;
+    margin-left: 2%;
+    color: rgb(247, 243, 243);
+}
+.title-logo{
+    height: auto;
+    width: 2.5rem;
+}
+.div{
+    padding-left: 0 !important;
+}

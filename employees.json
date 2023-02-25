@@ -1,0 +1,2056 @@
+{
+  "employees": [
+    {
+      "email": "ahmedtaha75@gmail.com",
+      "firstName": "ahmed",
+      "lastName": "taha",
+      "address": "elmahalla",
+      "age": "25",
+      "userName": "ahmedT2l3U",
+      "password": "svQue7Yh56",
+      "type": "instructor",
+      "id": 1
+    },
+    {
+      "email": "ouf902@gmail.com",
+      "firstName": "abdulrahman",
+      "lastName": "ouf",
+      "address": "abu ali",
+      "age": "22",
+      "userName": "abdulrahmanOyiVZ",
+      "password": "DmSjaI9If",
+      "type": "instructor",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Ahmed",
+      "lastName": "Shams",
+      "email": "ahmedtaha757@gmail.com",
+      "age": 24,
+      "address": "Al-Mansoura",
+      "userName": "Ashams0",
+      "password": "ahmed12356",
+      "type": "security"
+    },
+    {
+      "email": "amr.i.allam@hotmail.com",
+      "firstName": "Amr",
+      "lastName": "Allam",
+      "address": "Tanta",
+      "age": "25",
+      "userName": "Amr4rxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 4
+    },
+    {
+      "email": "islam.a.hamza95@gmail.com",
+      "firstName": "islam",
+      "lastName": "ashraf",
+      "address": "mahalla",
+      "age": "26",
+      "userName": "islamlZUv",
+      "password": "cJTpjDwG",
+      "type": "security",
+      "id": 5
+    },
+    {
+      "email": "omar.i.allam@hotmail.com",
+      "firstName": "omar",
+      "lastName": "Allam",
+      "address": "Tanta",
+      "age": "27",
+      "userName": "omarxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 6
+    },
+    {
+      "email": "karim@hotmail.com",
+      "firstName": "karim",
+      "lastName": "samir",
+      "address": "Abu Ali",
+      "age": "25",
+      "userName": "karimxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 7
+    },
+    {
+      "email": "mahmoud@hotmail.com",
+      "firstName": "mahmoud",
+      "lastName": "Elkenawy",
+      "address": "Samnnoud",
+      "age": "25",
+      "userName": "mahmoudxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 8
+    },
+    {
+      "email": "sherif@hotmail.com",
+      "firstName": "sherif",
+      "lastName": "Elhusseiny",
+      "address": "Alex",
+      "age": "25",
+      "userName": "sherifxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 9
+    },
+    {
+      "email": "moustafa@hotmail.com",
+      "firstName": "moustafa",
+      "lastName": "Abuelez",
+      "address": "Mit Ghamr",
+      "age": "23",
+      "userName": "moustafaxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 10
+    },
+    {
+      "email": "nader@hotmail.com",
+      "firstName": "nader",
+      "lastName": "beshir",
+      "address": "mubark",
+      "age": "25",
+      "userName": "naderxSZ",
+      "password": "xVXlQA0ZH",
+      "type": "instructor",
+      "id": 11
+    },
+    {
+      "email": "mahmoudalimenyawy@gmail.com",
+      "firstName": "mahmou",
+      "lastName": "menway",
+      "address": "mansoura",
+      "age": "26",
+      "userName": "mahmou50Bah",
+      "password": "EvATlEVuCs0",
+      "type": "instructor",
+      "id": 12
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "firstName": "Ahmed",
+      "lastName": "Elagezy",
+      "email": "ahmedelagezy0@gmail.com",
+      "age": 22,
+      "address": "Al-mahalla",
+      "userName": "AElagezy0",
+      "password": "ahmed12345"
+    }
+  ],
+  "pending": [
+    {
+      "email": "ahmedelagezy0@gmail.com",
+      "firstName": "ahmed",
+      "lastName": "wael",
+      "address": "elmahalla",
+      "age": "25",
+      "userName": "ahmedT4jOX",
+      "password": "ENqoBBPt0fU",
+      "type": "instructor",
+      "id": 1
+    },
+    {
+      "email": "ahmedelagezy0@gmail.com",
+      "firstName": "xzss",
+      "lastName": "sfdfq",
+      "address": "ffdfd",
+      "age": "25",
+      "userName": "xzssTENNL",
+      "password": "R9Xr0dfezGV",
+      "type": "undefined",
+      "id": 2
+    },
+    {
+      "email": "ahmedddtaha75@gmail.com",
+      "firstName": "aaa",
+      "lastName": "sdde",
+      "address": "eeee",
+      "age": "20",
+      "userName": "aaaKjgTw",
+      "password": "YHNkHF9cnT6",
+      "type": "undefined",
+      "id": 3
+    }
+  ],
+  "workingDays": [
+    {
+      "id": "1-1-2023"
+    },
+    {
+      "id": "2-1-2023"
+    },
+    {
+      "id": "3-1-2023"
+    },
+    {
+      "id": "4-1-2023"
+    },
+    {
+      "id": "5-1-2023"
+    },
+    {
+      "id": "6-1-2023"
+    },
+    {
+      "id": "7-1-2023"
+    },
+    {
+      "id": "8-1-2023"
+    },
+    {
+      "id": "9-1-2023"
+    },
+    {
+      "id": "10-1-2023"
+    },
+    {
+      "id": "11-1-2023"
+    },
+    {
+      "id": "12-1-2023"
+    },
+    {
+      "id": "13-1-2023"
+    },
+    {
+      "id": "14-1-2023"
+    },
+    {
+      "id": "15-1-2023"
+    },
+    {
+      "id": "16-1-2023"
+    },
+    {
+      "id": "17-1-2023"
+    },
+    {
+      "id": "18-1-2023"
+    },
+    {
+      "id": "19-1-2023"
+    },
+    {
+      "id": "20-1-2023"
+    },
+    {
+      "id": "21-1-2023"
+    },
+    {
+      "id": "22-1-2023"
+    },
+    {
+      "id": "23-1-2023"
+    },
+    {
+      "id": "24-1-2023"
+    },
+    {
+      "id": "25-1-2023"
+    },
+    {
+      "id": "23-2-2023"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "ahmedT2l3U",
+      "userName": "ahmedT2l3U",
+      "startDate": "1-1-2023",
+      "attend": 21,
+      "abs": 6,
+      "execuses": 2,
+      "late": 4,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "24-1-2023",
+        "25-1-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "16-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "Late",
+          "date": "18-1-2023",
+          "out": "4:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:12 am",
+          "arrivestatus": "Late",
+          "date": "19-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "3:34 pm",
+          "date": "23-2-2023",
+          "arrivestatus": "Late",
+          "out": "3:35 pm",
+          "execuseStatus": true
+        }
+      ]
+    },
+    {
+      "id": "abdulrahmanOyiVZ",
+      "userName": "abdulrahmanOyiVZ",
+      "startDate": "1-1-2023",
+      "attend": 21,
+      "abs": 6,
+      "execuses": 2,
+      "late": 3,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "16-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "18-1-2023",
+          "out": "3:05 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "19-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:35 am",
+          "date": "24-1-2023",
+          "arrivestatus": "Late",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "Ashams0",
+      "userName": "Ashams0",
+      "startDate": "1-1-2023",
+      "attend": 21,
+      "abs": 6,
+      "execuses": 2,
+      "late": 3,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "16-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:0 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "5:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "Late",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "4:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "10:22 am",
+          "date": "24-1-2023",
+          "arrivestatus": "Late",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "Amr4rxSZ",
+      "userName": "Amr4rxSZ",
+      "startDate": "1-1-2023",
+      "attend": 22,
+      "abs": 5,
+      "execuses": 4,
+      "late": 4,
+      "absentDays": [
+        "23-1-2023",
+        "24-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "16-1-2023",
+          "out": "2:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:08 pm",
+          "date": "22-1-2023",
+          "arrivestatus": "Late",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "12:55 pm",
+          "date": "23-1-2023",
+          "arrivestatus": "Late",
+          "out": "2:10 pm",
+          "execuseStatus": true
+        }
+      ]
+    },
+    {
+      "id": "islamlZUv",
+      "userName": "islamlZUv",
+      "startDate": "1-1-2023",
+      "attend": 25,
+      "abs": 2,
+      "execuses": 2,
+      "late": 3,
+      "absentDays": [
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "16-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "4:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:15 am",
+          "arrivestatus": "Late",
+          "date": "20-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "21-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 pm",
+          "date": "22-1-2023",
+          "arrivestatus": "On Time",
+          "out": "4:33 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 pm",
+          "date": "23-1-2023",
+          "arrivestatus": "On Time",
+          "out": "2:06 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "Late",
+          "date": "24-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:57 pm",
+          "date": "25-1-2023",
+          "arrivestatus": "Late",
+          "out": "5:16 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "omarxSZ",
+      "userName": "omarxSZ",
+      "startDate": "1-1-2023",
+      "attend": 24,
+      "abs": 3,
+      "execuses": 3,
+      "late": 5,
+      "absentDays": [
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "2:45 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:00 am",
+          "arrivestatus": "Late",
+          "date": "6-1-2023",
+          "out": "6:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "19-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "1:41 am",
+          "arrivestatus": "Late",
+          "date": "20-1-2023",
+          "out": "7:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "21-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "22-1-2023",
+          "out": "4:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "23-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "24-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "karimxSZ",
+      "userName": "karimxSZ",
+      "startDate": "1-1-2023",
+      "attend": 21,
+      "abs": 6,
+      "execuses": 4,
+      "late": 5,
+      "absentDays": [
+        "9-1-2023",
+        "23-1-2023",
+        "24-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "2:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:45 am",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "20-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:35 am",
+          "arrivestatus": "Late",
+          "date": "21-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "22-1-2023",
+          "out": "5:15 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "mahmoudxSZ",
+      "userName": "mahmoudxSZ",
+      "startDate": "1-1-2023",
+      "attend": 21,
+      "abs": 6,
+      "execuses": 2,
+      "late": 6,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "24-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "1-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:15 am",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "1:41 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:00 am",
+          "arrivestatus": "Late",
+          "date": "18-1-2023",
+          "out": "5:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:30 am",
+          "arrivestatus": "Late",
+          "date": "19-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:41 am",
+          "arrivestatus": "Late",
+          "date": "20-1-2023",
+          "out": "2:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "10:15 pm",
+          "date": "25-1-2023",
+          "arrivestatus": "Late",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "sherifxSZ",
+      "userName": "sherifxSZ",
+      "startDate": "2-1-2023",
+      "attend": 19,
+      "abs": 7,
+      "execuses": 3,
+      "late": 3,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "24-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "2-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "3-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "4-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "2:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "12:00 pm",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "5:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:41 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "5:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "6:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "3:00 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "20-1-2023",
+          "out": "4:15 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "moustafaxSZ",
+      "userName": "moustafaxSZ",
+      "startDate": "5-1-2023",
+      "attend": 17,
+      "abs": 6,
+      "execuses": 2,
+      "late": 3,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "24-1-2023",
+        "25-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "5-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "6-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "7-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "8-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "9-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:20 am",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "7:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:30 am",
+          "arrivestatus": "Late",
+          "date": "17-1-2023",
+          "out": "5:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "19-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:41 am",
+          "arrivestatus": "Late",
+          "date": "23-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "naderxSZ",
+      "userName": "naderxSZ",
+      "startDate": "10-1-2023",
+      "attend": 12,
+      "abs": 6,
+      "execuses": 0,
+      "late": 5,
+      "absentDays": [
+        "21-1-2023",
+        "22-1-2023",
+        "23-1-2023",
+        "24-1-2023",
+        "23-2-2023",
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "10-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "11-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "12-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "13-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "14-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "15-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:30 am",
+          "arrivestatus": "Late",
+          "date": "16-1-2023",
+          "out": "3:15 pm",
+          "execuseStatus": true
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "17-1-2023",
+          "out": "7:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "11:30 am",
+          "arrivestatus": "Late",
+          "date": "18-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "10:00 am",
+          "arrivestatus": "Late",
+          "date": "19-1-2023",
+          "out": "5:15 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "9:00 am",
+          "arrivestatus": "On Time",
+          "date": "20-1-2023",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        },
+        {
+          "arrive": "5:45 pm",
+          "date": "25-1-2023",
+          "arrivestatus": "Late",
+          "out": "5:45 pm",
+          "execuseStatus": false
+        }
+      ]
+    },
+    {
+      "id": "mahmou50Bah",
+      "userName": "mahmou50Bah",
+      "startDate": "25-1-2023",
+      "attend": 1,
+      "abs": 0,
+      "late": 1,
+      "execuses": 0,
+      "absentDays": [
+        "23-2-2023"
+      ],
+      "info": [
+        {
+          "arrive": "5:15 pm",
+          "date": "25-1-2023",
+          "arrivestatus": "Late",
+          "out": "4:00 pm",
+          "execuseStatus": false
+        }
+      ]
+    }
+  ]
+}
